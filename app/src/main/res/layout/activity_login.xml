@@ -128,7 +128,8 @@
            android:text="Register"
            android:fontFamily="@font/poppinsbold"
            android:textSize="12dp"
-           android:textColor="@color/secondaryColor"/>
+           android:textColor="@color/secondaryColor"
+           android:id="@+id/l_btn_Regis"/>
 
    </LinearLayout>
     </RelativeLayout>

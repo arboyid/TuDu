@@ -12,10 +12,18 @@ class LoginActivity : AppCompatActivity() {
         supportActionBar?.hide()
 
         btnBackLoginListener()
+        btnRegisterListener()
     }
     private fun btnBackLoginListener() {
     L_back.setOnClickListener {
         startActivity(Intent(this, MainActivity::class.java))
+        }
     }
+
+    private  fun btnRegisterListener() {
+        l_btn_Regis.setOnClickListener {
+            startActivity(Intent(this, RegisterActivity::class.java))
+        }
     }
+
 }
