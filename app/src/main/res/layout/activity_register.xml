@@ -110,33 +110,4 @@
         android:id="@+id/R_btn_1"
         android:fontFamily="@font/poppinsbold"/>
 
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:layout_below="@id/R_btn_1"
-        android:gravity="center"
-        android:layout_marginTop="20dp">
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Already have an account?"
-            android:fontFamily="@font/poppinsregular"
-            android:textSize="12dp"/>
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Login"
-            android:fontFamily="@font/poppinsbold"
-            android:textSize="12dp"
-            android:textColor="@color/secondaryColor"/>
-
-    </LinearLayout>
-
-
-
-
-
 </RelativeLayout>

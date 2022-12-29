@@ -73,7 +73,6 @@
         android:textColor="@color/white"
         android:textSize="14dp"
         android:fontFamily="@font/poppinsbold"
-        android:id="@+id/btn_2"
-        />
-
+        android:id="@+id/btn_2"/>
 </RelativeLayout>
+
