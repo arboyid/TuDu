@@ -20,7 +20,8 @@
         android:layout_height="wrap_content"
         android:src="@drawable/ic_back"
         android:layout_marginLeft="16dp"
-        android:layout_marginTop="16dp" />
+        android:layout_marginTop="16dp"
+        android:id="@+id/R_back"/>
 
     <TextView
         android:layout_width="wrap_content"
