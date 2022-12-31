@@ -4,12 +4,12 @@ APK file : <a>https://drive.google.com/file/d/1T3AjIU9glPxT4dbEoxYvKyds9I6vsQJh/
 
 <h1> Prototype App </h1>
 Figma File :  <a>https://www.figma.com/file/baHfDAeLyvySRlXdYlirt1/Mobile-Design?node-id=0%3A1&t=4TsohUSTjC3k7xaL-1</a>
-![image](https://user-images.githubusercontent.com/74137303/210129006-73986657-f798-4e7f-8d28-f9dec1b599e5.png)
+https://user-images.githubusercontent.com/74137303/210129006-73986657-f798-4e7f-8d28-f9dec1b599e5.png
 
 
 <h1> Screen UI </h1>
 <h2> Splash Screen  </h2>
-![Screenshot_20221229-222551](https://user-images.githubusercontent.com/74137303/210129071-58313328-18fe-46c6-b569-173603750b5f.png)
+https://user-images.githubusercontent.com/74137303/210129071-58313328-18fe-46c6-b569-173603750b5f.png
 
 <h2>Login Screen</h2>
 ![Screenshot_20221229-222533](https://user-images.githubusercontent.com/74137303/210129044-f16360e8-7838-4dc6-ad22-f48a6a8576ae.png)
